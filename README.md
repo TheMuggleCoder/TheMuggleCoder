@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Sumit Singh</h1>
 <h3 align="center">A passionate student from India working towards a career transition.</h3>
 
-- 🌱 I’m currently learning **C and React**
+- 🌱 I’m currently learning **MERN And C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheMuggleCoder](https://github.com/TheMuggleCoder)
 
