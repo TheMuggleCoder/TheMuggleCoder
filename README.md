@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! 👋, I'm Sumit Singh</h1>
 <h3 align="center">A passionate student from India working towards a career transition.</h3>
 
-- 🌱 I’m currently learning **MERN And C++**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheMuggleCoder](https://github.com/TheMuggleCoder)
 
-- 💬 Ask me about **HTML CSS JavaScript**
+- 💬 Ask me about **C, C++, JavaScript, MERN Stack**
 
 - 📫 How to reach me **themugglecoder@gmail.com**
 
