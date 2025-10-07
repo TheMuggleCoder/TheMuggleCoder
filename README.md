@@ -1,13 +1,14 @@
 <h1 align="center">Hello World! 👋, I'm Sumit Singh</h1>
 <h3 align="center">A passionate student from India working towards a great ambitions.</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Python and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheMuggleCoder](https://github.com/TheMuggleCoder)
 
-- 💬 Ask me about **C, C++, JavaScript, MERN Stack**
+- 💬 Ask me about **C, C++, Java, JavaScript, MERN Stack, Space Sciences, AI , ML**
 
 - 📫 How to reach me **themugglecoder@gmail.com**
+**sumit20singh20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
